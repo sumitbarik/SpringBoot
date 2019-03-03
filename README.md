@@ -11,3 +11,5 @@ Steps to execute:
 From terminal:
 - Go to project folder
 - Run command: mvn spring-boot:run
+
+Run the CRUD operation from rest client
